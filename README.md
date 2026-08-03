@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs&descAlignY=56&descSize=18" width="100%"/>
 <br/>
-<a href="https://www.linkedin.com/in/taher--abbas">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
-<a href="mailto:taher.a2794@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
 </a>
-<a href="https://github.com/Taher-27">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Taher-27" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
 </a><br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI+systems+%F0%9F%A7%A0;Exploring+LLMs+%26+Generative+AI+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
@@ -152,11 +152,11 @@
 *Let's build something intelligent together.*
 
 <br/>
-<a href="https://www.linkedin.com/in/taher--abbas">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
 </a>
-<a href="mailto:taher.a2794@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener">
+  <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Gmail" />
 </a><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
