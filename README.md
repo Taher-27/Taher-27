@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs%20%E2%80%A2%20GenAI&descAlignY=56&descSize=18" width="100%"/>
 <br/>
 <a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" /></a>&nbsp;<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" /></a>&nbsp;<a href="https://github.com/Taher-27" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" /></a><br/><br/>
 
@@ -8,13 +8,21 @@
 
 ### ⚡ About Me
 
-> Aspiring AI Engineer , passionate about building real-world intelligent systems — not just running notebooks. I care about understanding why models work, not just that they work.
+> Aspiring AI Engineer pursuing a B.Tech in Computer Science Engineering, passionate about building real-world intelligent systems — not just running notebooks. I care about understanding why models work, not just that they work.
 >
 > - 🧠 Currently deep in Machine Learning, Deep Learning, and LLM internals
 > - 👁️ Exploring Computer Vision — CNNs, object detection, image classification
 > - 🛠️ Writing clean, maintainable code in Python, C++, and Java
 > - 🚀 Goal: land a meaningful AI/ML internship and contribute to open source
 > - 🌱 I believe in learning by building — every project teaches something new
+
+---
+
+### 📚 Currently Learning & Upcoming Focus
+
+- **Right Now:** Deep diving into Deep Learning architectures, LLM fundamentals, Prompt Engineering, and GPU computing (NVIDIA H200) as part of an intensive GenAI & LLM internship.
+- **Up Next:** Building production-ready Machine Learning applications and executing a major capstone project focused on NLP or Computer Vision tracks.
+- **Looking Ahead:** Gearing up to apply for foreign research internships by December 2026!
 
 ---
 
