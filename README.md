@@ -115,12 +115,6 @@
 > - **Overview:** Developed a frame-by-frame video processing pipeline using semantic image segmentation (like U-Net or YOLOv8-seg) to identify and overlay drivable lanes on live dashcam footage.
 > - **Hardware & Optimization:** Leveraged Google Colab’s T4 GPU to handle the compute-heavy, high-FPS video processing and deep learning model inference required for real-time lane tracking.
 > - **Core Tech Stack:** Python, OpenCV, PyTorch / YOLOv8-seg, MoviePy
->
-> <br>
-> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
 
 ---
 
