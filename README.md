@@ -1,22 +1,14 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs&descAlignY=56&descSize=18" width="100%"/>
 <br/>
-<a href="https://www.linkedin.com/in/taher--abbas" target="blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" />
-</a>
-<a href="mailto:taher.a2794@gmail.com" target="blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" />
-</a>
-<a href="https://github.com/Taher-27" target="blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" />
-</a><br/><br/>
+<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" /></a>&nbsp;<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" /></a>&nbsp;<a href="https://github.com/Taher-27" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" /></a><br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=Building+intelligent+AI+systems+%F0%9F%A7%A0;Exploring+LLMs+%26+Generative+AI+%F0%9F%A4%96;Deep+Learning+%7C+Computer+Vision+%F0%9F%91%81%EF%B8%8F;Always+learning%2C+always+building+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 ### ⚡ About Me
 
-> Aspiring AI Engineer from India, passionate about building real-world intelligent systems — not just running notebooks. I care about understanding why models work, not just that they work.
+> Aspiring AI Engineer , passionate about building real-world intelligent systems — not just running notebooks. I care about understanding why models work, not just that they work.
 >
 > - 🧠 Currently deep in Machine Learning, Deep Learning, and LLM internals
 > - 👁️ Exploring Computer Vision — CNNs, object detection, image classification
@@ -152,15 +144,7 @@
 *Let's build something intelligent together.*
 
 <br/>
-<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" />
-</a>
-<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" />
-</a>
-<a href="https://github.com/Taher-27" target="_blank" rel="noopener">
-  <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" />
-</a><br/><br/>
+<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" /></a>&nbsp;<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" /></a>&nbsp;<a href="https://github.com/Taher-27" target="_blank" rel="noopener"><img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" /></a><br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
