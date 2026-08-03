@@ -20,9 +20,9 @@
 
 ### 📚 Currently Learning & Upcoming Focus
 
-- **Right Now:** Deep diving into Deep Learning architectures, LLM fundamentals, Prompt Engineering, and GPU computing (NVIDIA H200) as part of an intensive GenAI & LLM internship.
-- **Up Next:** Building production-ready Machine Learning applications and executing a major capstone project focused on NLP or Computer Vision tracks.
-- **Looking Ahead:** Gearing up to apply for foreign research internships by December 2026!
+> - **Right Now:** Deep diving into Deep Learning architectures, LLM fundamentals, Prompt Engineering, and GPU computing (NVIDIA H200) as part of an intensive GenAI & LLM internship.
+> - **Up Next:** Building production-ready Machine Learning applications and executing a major capstone project focused on NLP or Computer Vision tracks.
+> - **Looking Ahead:** Gearing up to apply for foreign research internships by December 2026!
 
 ---
 
@@ -109,24 +109,18 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%">
-<tr>
-<td width="100%">
-<b>🛣️ AI-Based Lane Detection for Driverless Cars</b><br><br>
-
-*   **Category:** Computer Vision & Autonomous Driving
-*   **Overview:** Developed a frame-by-frame video processing pipeline using semantic image segmentation (like U-Net or YOLOv8-seg) to identify and overlay drivable lanes on live dashcam footage.
-*   **Hardware & Optimization:** Leveraged Google Colab’s T4 GPU to handle the compute-heavy, high-FPS video processing and deep learning model inference required for real-time lane tracking.
-*   **Core Tech Stack:** Python, OpenCV, PyTorch / YOLOv8-seg, MoviePy
-
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
-</td>
-</tr>
-</table>
+> **🛣️ AI-Based Lane Detection for Driverless Cars**
+>
+> - **Category:** Computer Vision & Autonomous Driving
+> - **Overview:** Developed a frame-by-frame video processing pipeline using semantic image segmentation (like U-Net or YOLOv8-seg) to identify and overlay drivable lanes on live dashcam footage.
+> - **Hardware & Optimization:** Leveraged Google Colab’s T4 GPU to handle the compute-heavy, high-FPS video processing and deep learning model inference required for real-time lane tracking.
+> - **Core Tech Stack:** Python, OpenCV, PyTorch / YOLOv8-seg, MoviePy
+>
+> <br>
+> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+> <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" alt="Colab"/>
 
 ---
 
