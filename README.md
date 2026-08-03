@@ -1,7 +1,3 @@
-<table align="center" width="100%" cellpadding="30" cellspacing="0">
-<tr>
-<td>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs&descAlignY=56&descSize=18" width="100%"/>
 <br/>
@@ -165,7 +161,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
-
-</td>
-</tr>
-</table>
