@@ -1,13 +1,13 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Taher%20Abbas&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20ML%20%E2%80%A2%20Deep%20Learning%20%E2%80%A2%20LLMs&descAlignY=56&descSize=18" width="100%"/>
 <br/>
-<a href="https://www.linkedin.com/in/taher--abbas" target="_blank" rel="noopener">
+<a href="https://www.linkedin.com/in/taher--abbas" target="blank" rel="noopener">
   <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="48" height="48" alt="LinkedIn" />
 </a>
-<a href="mailto:taher.a2794@gmail.com" target="_blank" rel="noopener">
+<a href="mailto:taher.a2794@gmail.com" target="blank" rel="noopener">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="48" height="48" alt="Gmail" />
 </a>
-<a href="https://github.com/Taher-27" target="_blank" rel="noopener">
+<a href="https://github.com/Taher-27" target="blank" rel="noopener">
   <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" height="48" alt="GitHub" />
 </a><br/><br/>
 
